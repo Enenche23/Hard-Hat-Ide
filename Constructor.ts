@@ -1,0 +1,6 @@
+const args = ["0xaca1A8a251B81d3516Fa937F65bC90Ec8DeB74E7", "0x5D8cE921c9733784af6ECa3A36Ed884D47E88C56", "0xfa1674F6D697c97041e95396aA436D73cf01f186"]
+const owner = "0xaca1A8a251B81d3516Fa937F65bC90Ec8DeB74E7"
+module.exports = [
+    args,
+    owner
+];
